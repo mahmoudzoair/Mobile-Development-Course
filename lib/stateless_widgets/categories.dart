@@ -7,7 +7,7 @@ class categories extends StatelessWidget {
     return Scaffold(
       appBar: BaseAppBar(
         backgroundColor: Colors.blue,
-          title: Text('title 2 git'),
+          title: Text('title 2 kareem'),
           appBar: AppBar(),
           widgets: <Widget>[Icon(Icons.arrow_back)],
           ),
