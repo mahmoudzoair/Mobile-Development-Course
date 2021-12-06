@@ -7,7 +7,7 @@ class home extends StatelessWidget {
     return Scaffold(
       appBar: BaseAppBar(
         backgroundColor: Colors.red,
-          title: Text('title'),
+          title: Text('title git'),
           appBar: AppBar(),
           widgets: <Widget>[Icon(Icons.more_vert)],
           ),
