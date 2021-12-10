@@ -13,7 +13,7 @@ class home extends StatelessWidget {
           ),
       body: SafeArea(
         child: ElevatedButton(
-          onPressed: (){Navigator.pushNamed(context, '/categories');},
+          onPressed: (){Navigator.pushNamed(context, '/items');},
           child: Text('cat'),
           ),
           ),
