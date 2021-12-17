@@ -40,13 +40,13 @@ Widget startDrawer() {
                   size: 48.0,
                 ),
                 Text(
-                  "Flutter Example",
+                  " Example",
                   style: TextStyle(
                     fontSize: 16.0,
                   ),
                 ),
                 Text(
-                  "flutterexample@gmail.com",
+                  "example@gmail.com",
                   style: TextStyle(
                     fontSize: 14.0,
                   ),
