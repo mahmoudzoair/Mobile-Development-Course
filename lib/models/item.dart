@@ -18,6 +18,7 @@ class Item {
   );
 }
 
+
 List<Item> items = [
   Item(1,const Color(0xFF3D82AE), 'this is a test on description', 'assets/egypt.png', 20,'item1',true),
   Item(2,const Color(0xFF3D82AE), 'great', 'assets/egypt.png', 20,'item2',true),
